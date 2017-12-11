@@ -1,0 +1,4 @@
+L: Language
+M: Movie ID
+R: Reviews
+S: Score
