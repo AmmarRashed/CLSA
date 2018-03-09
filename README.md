@@ -1,4 +1,4 @@
-## Ammar Raşid.
+## Ammar Rashed.
 
 # Machine Learning Term Project Report
 
