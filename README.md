@@ -30,9 +30,6 @@ scores of testing movie reviews. Code 1. To insure the robustness of validation,
 trials. I use different random state for each trial. However, I noticed that all trials gave exactly similar
 results. Therefore, I will report only the scores of each of the 10-folds for just one trial.
 
-```
-Code 1 Measuring Model’s Accuracy
-```
 
 ## Data:
 
